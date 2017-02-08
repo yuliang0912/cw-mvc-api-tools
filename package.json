@@ -1,0 +1,19 @@
+{
+  "name": "cw-mvc-api",
+  "version": "1.0.8",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "cw-mvc-api": "./bin/cw-mvc-api.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.2"
+  }
+}
